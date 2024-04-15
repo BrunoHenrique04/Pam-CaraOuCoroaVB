@@ -18,6 +18,13 @@
                 </Picker.ItemsSource>
             </Picker>
 
+            <Image 
+                WidthRequest="100"
+                HeightRequest="100"
+                Source="null"
+                x:Name="ImageCoin"
+                />
+
             <Label
                 Text=""
                 x:Name="labelResult"
@@ -33,7 +40,9 @@
                 Text="Rodar Modar" 
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="BtnGirarMoeda_Clicked"
-                HorizontalOptions="Fill" />
+                HorizontalOptions="Fill"
+                
+                />
         </VerticalStackLayout>
     </ScrollView>
 

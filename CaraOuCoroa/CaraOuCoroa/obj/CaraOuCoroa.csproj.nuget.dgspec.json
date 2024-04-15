@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2D-EVB\\PAM\\Cara ou Coroa\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa.csproj": {}
+    "D:\\2D-BEV\\PAM\\CaraOuCoroaBrunoEVitor\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa.csproj": {}
   },
   "projects": {
-    "D:\\2D-EVB\\PAM\\Cara ou Coroa\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa.csproj": {
+    "D:\\2D-BEV\\PAM\\CaraOuCoroaBrunoEVitor\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2D-EVB\\PAM\\Cara ou Coroa\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa.csproj",
+        "projectUniqueName": "D:\\2D-BEV\\PAM\\CaraOuCoroaBrunoEVitor\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa.csproj",
         "projectName": "CaraOuCoroa",
-        "projectPath": "D:\\2D-EVB\\PAM\\Cara ou Coroa\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa.csproj",
+        "projectPath": "D:\\2D-BEV\\PAM\\CaraOuCoroaBrunoEVitor\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\2D-EVB\\PAM\\Cara ou Coroa\\CaraOuCoroa\\CaraOuCoroa\\obj\\",
+        "outputPath": "D:\\2D-BEV\\PAM\\CaraOuCoroaBrunoEVitor\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

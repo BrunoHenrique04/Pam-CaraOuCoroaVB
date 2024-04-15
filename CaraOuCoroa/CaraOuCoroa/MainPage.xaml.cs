@@ -16,9 +16,11 @@
             count = new Random().Next(1, 3);
             if (count == 1) {
                 labelResult.Text = "CARA";
+                ImageCoin.Source = "cara.png";
             } else
             {
                 labelResult.Text = "COROA";
+                ImageCoin.Source = "coroa.png";
             }
             if(escolha == count-1)
             {

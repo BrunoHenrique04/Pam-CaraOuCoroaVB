@@ -1,1 +1,1 @@
-D:\2D-EVB\PAM\Cara ou Coroa\CaraOuCoroa\CaraOuCoroa\CaraOuCoroa.csproj;x64
+D:\2D-BEV\PAM\CaraOuCoroaBrunoEVitor\CaraOuCoroa\CaraOuCoroa\CaraOuCoroa\CaraOuCoroa.csproj;x64

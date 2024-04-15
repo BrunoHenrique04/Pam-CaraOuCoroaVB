@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "maW2Ux2/rtgtkOkARncQW+MCTZPURtLTT4nF0ZZmBbe53Y+8Q0txv4pO0E+Oh9K16VLGc92OQpqjJC8ZcrxFjw==",
+  "dgSpecHash": "Iy9ylR11bPJKMWMk6Ujv9ur4Ipvxto9yvZDkrb5t/SZltFUlbxnLl94x57grxLJTg7q8pqcQ7yhbCLmOWmQSNg==",
   "success": true,
-  "projectFilePath": "D:\\2D-EVB\\PAM\\Cara ou Coroa\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa.csproj",
+  "projectFilePath": "D:\\2D-BEV\\PAM\\CaraOuCoroaBrunoEVitor\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa\\CaraOuCoroa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
